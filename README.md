@@ -1,2 +1,2 @@
 # consolejs
-terminal emulator written in vanila javascript and HTML5
+Moved to https://gitlab.com/kissbeni/consolejs
